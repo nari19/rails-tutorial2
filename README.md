@@ -23,7 +23,8 @@ Things you may want to cover:
 
 * ...
 
+- URL: https://railstutorial.jp/chapters/static_pages?version=5.1#cha-static_pages
 
 |||
 |-|-|
-|第３章|3.2.2|
+|第３章|3.4.3|
